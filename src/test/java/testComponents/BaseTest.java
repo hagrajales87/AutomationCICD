@@ -32,7 +32,7 @@ import java.util.List;
 import java.util.Properties;
 
 public class BaseTest {
-
+//New comment added to test porpuse.
     public WebDriver driver;
     public LandingPage landingPage;
 
